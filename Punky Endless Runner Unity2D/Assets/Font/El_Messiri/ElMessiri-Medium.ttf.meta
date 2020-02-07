@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: c1d09e40d67b53946894f64b46ecc182
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: El Messiri
+  fontNames:
+  - El Messiri
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 873a701dfd3c0d54f86b68aca5fb4c40, type: 3}
+  - {fileID: 12800000, guid: 7d3a410f225fddf40a9e869ce64190e7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
